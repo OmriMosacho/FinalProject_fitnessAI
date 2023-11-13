@@ -5,7 +5,7 @@ usersDBTable = "users"
 trainingDBTable = "training"
 resultsDBTable = "results"
 sensorsDBTable = "sensors"
-dataBaseURL = "localhost"
+dataBaseURL = "ec2-18-156-114-91.eu-central-1.compute.amazonaws.com"
 dataBasePort = "27017"
 
 
